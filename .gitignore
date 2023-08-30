@@ -1,0 +1,7 @@
+/LearnProject/LearnProject-entities/target/
+/LearnProject/LearnProject-ejb/target/
+/LearnProject/LearnProject-web/target/
+
+LearnProject/LearnProject-ejb/nb-configuration.xml
+
+LearnProject/LearnProject-web/nb-configuration.xml
